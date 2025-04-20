@@ -2,6 +2,7 @@
 <H3>REGISTER NO: 212223230071</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE: 20/04/25</H3>
+
 ## Implementation of MLP for a non-linearly separable data
 
 <h3>Aim:</h3>
